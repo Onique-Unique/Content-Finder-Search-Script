@@ -15,3 +15,5 @@ call functions, this was essentially what i was aiming to achieve to complete th
 You can check the functionality of this code by visiting my website @ www.feenixbloom.com as it is helpdesk and troubleshoot related content it is with best result 
 to utilize the search field for such intent.
 
+
+As of now this script is in its simplest format and will be updated frequently to apply a wider set of arrays to enhance its capabilities with more advance properties.
