@@ -96,6 +96,13 @@ function openfile() {
         window.open("info-page12.html",);
     } 
 
+    else if (info.toLowerCase().includesOneof(["resume", "ats", "cv", "scan", "job description", "resume scanner", "keyword tool", 
+    "keyword optimize", "applicant tracking system", "jobscan", "job scan", "job research", "skills match", "match"])) {
+
+        window.close();
+        window.open("resume-scan.html",);
+    } 
+
     else {
         window.location.href ="redirect.html";
     }
@@ -106,10 +113,10 @@ function openfile() {
 // Writing a function allowing the search icon to submit a request when pressed to act as the enter key
 
 // writing the input field to gather the search information
-var input = document.getElementsById("search");
+var input = document.getElementById("search");
 
 // executing the function when the user releases the key
-input.addEventListener("keyup", function(event) {
+input.document("keyup", function(event) {
 
     // Number 13 is the "Enter" key on the keyboard
     if (event.keyCode === 13) {
