@@ -9,7 +9,7 @@ I wanted to create a search function on a webpage that will allow the user to fi
 
 I came across solutions that were not inline to what i wanted to achieve such as having to create a database that would then essentially function in the terms needed
 
-with this approach i took upon ,yself to be resourceful yet again and create an alternative that would then eliminate the need for a database by using arrays and 
+with this approach i took it upon myself to be resourceful yet again and create an alternative that would then eliminate the need for a database by using arrays and 
 call functions, this was essentially what i was aiming to achieve ato complete the task in the timeframe required.
 
 You can check the functionality of this code by visiting my website @ www.feenixbloom.com as it is helpdesk and troubleshoot related content it is with best result 
